@@ -1,0 +1,98 @@
+body {
+
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    
+    }
+    h1 {
+        font-size: 70px;
+        margin-top: 0px ;
+        font-family: 'Sacramento', cursive;
+        color: rgb(0, 16, 41);
+        line-height: 2;
+        
+    }
+    h2 {
+        font-family: 'Lemonada', cursive;
+        font-size: 20px;
+        color: #11999e;
+        font-weight: bold;
+    }
+    h3 {
+        font-family: 'Lemonada', cursive;
+        color: black;
+    }
+    hr {
+        
+        border-style: none;
+        border-top-style: dotted;
+        border-color: grey;
+        border-width: 5px;
+        width:5%;
+    }
+    p {
+        line-height: 2;
+    }
+    .top-container{
+        background-color:#e2fffa;
+        position: relative;
+        padding-top: 100px , 0;
+    }
+    .bottom-container {
+        text-align: left;
+    }
+    .middel-container {
+        
+        text-align: center;
+        margin: 100px;
+    }
+    .education {
+        text-align: center;
+    }
+    .skill {
+        text-align: left;
+    }
+    .my-skill {
+        text-align: center;
+    }
+    .web-image {
+        float: left;
+        margin-right: 20px;
+    }
+    .bottom-cloud {
+        position: absolute;
+        left: 200px;
+       top: 300px;
+    }
+    .top-cloud {
+        position: absolute;
+        right: 100px;
+        top: 0px;
+    }
+    .myButton {
+        box-shadow: 0px 10px 14px -7px #276873;
+        background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+        background-color:#599bb3;
+        border-radius:19px;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:20px;
+        font-weight:bold;
+        padding:12px 19px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #00eba8;
+    }
+    a:hover {
+        color: #98aaa4;
+    }
+    .link {
+        background-color: #61d4b4;
+        margin: auto;
+    }
+    .copy-right {
+        color: #e2fffa;
+        font-size: 0.75rem;
+       
+    }
